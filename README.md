@@ -1,5 +1,4 @@
 # Lyriks-Song-Player
-Project Lyrics
 Develop an elegant React.js Music Application.
 
 Contributing
